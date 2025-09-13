@@ -294,6 +294,11 @@ align-items: center;
 gap: 16px;
 }
 
+.icon-item{
+    display: flex;
+    gap: 24px;
+}
+
 .icons-link,
 .icons-footer {
 display: flex;
